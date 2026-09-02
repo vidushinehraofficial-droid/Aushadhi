@@ -1,0 +1,12 @@
+google-genai
+pillow
+streamlit
+twilio
+python-dotenv
+pydantic
+pydantic-settings
+gtts
+pytest
+requests
+folium
+streamlit-folium
